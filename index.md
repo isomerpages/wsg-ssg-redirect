@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "SSG/WSG REDIRECTION PAGE "
+title: For reference
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /
@@ -19,4 +19,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 

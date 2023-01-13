@@ -2,7 +2,7 @@
 layout: homepage
 title: Redirection page xxxx
 description: An Isomer site of the Singapore Government
-image: /images/ssg-header.png
+image: /images/ssg-wsg_logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -30,5 +30,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 

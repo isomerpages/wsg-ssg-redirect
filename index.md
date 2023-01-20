@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle:SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have refreshed and launched our respective websites to provide better user experience,
-      subtitle:and to allow you to find relevant info
+      subtitle:SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have refreshed and launched our respective websites to provide better user experience, and to allow you to find relevant info
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:

@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Redirection page
-      subtitle: "SSG and WSG has spilt with effect from 1 April 2023. To access to the
-        SSG and WSG Website, please follow the URL link provided below. "
+      subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
+        refreshed and launched our respective websites to provide better user
+        experience, and to allow y
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:
@@ -19,5 +19,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-

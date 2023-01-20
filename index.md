@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: redirection
-      subtitle: SkillsFuture Singapore
+      subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have refreshed and launched our respective websites to provide better user experience, and to allow you to find relevant information more readily!
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:

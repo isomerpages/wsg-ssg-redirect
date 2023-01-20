@@ -7,6 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
+      title: redirection
       subtitle:SkillsFuture Singapore
       background: /images/hero-banner.png
       url: /contact-us/

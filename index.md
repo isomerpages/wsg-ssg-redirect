@@ -12,8 +12,8 @@ sections:
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:
-      title: Infobar title
-      subtitle: SSG Website
+      title: SSG Website
+      subtitle: ""
       description: For information on SkillsFuture movement and how it helps Singaporeans plan and act on their upskilling efforts.
       button: Click here to visit the SSG website 
       url: https://www.skillsfuture.gov.sg

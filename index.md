@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: For reference
+title: ""
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /
@@ -18,4 +18,9 @@ sections:
         Singaporeans plan and act on their upskilling efforts.
       button: Click here to visit the SSG website
       url: https://www.skillsfuture.gov.sg
+  - infobar:
+      title: WSG Website
+      description:  For information on programmes and services to help Singaporeans take on quality jobs and for enterprises to transform and remain competitive.  
+      button: Click here to visit the WSG website now. 
+      url: https://www.wsg.gov.sg
 ---

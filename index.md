@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ""
+title: Skillsfuture Singapore and Workforce Singapore
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /
@@ -26,3 +26,4 @@ sections:
       button: Click here to visit the WSG website now.
       url: https://www.wsg.gov.sg
 ---
+

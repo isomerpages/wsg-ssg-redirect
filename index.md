@@ -8,18 +8,13 @@ notification: ""
 sections:
   - hero:
       title: ""
-      subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have refreshed and launched our respective websites to provide better user experience, and to allow you to find relevant information more readily! 
-      SSG Website
-For information on SkillsFuture movement and how it helps Singaporeans plan and act on their upskilling efforts. 
-Click here to visit the SSG website now. [https://www.skillsfuture.gov.sg]
-
-     
+      subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have refreshed and launched our respective websites to provide better user experience, and to allow you to find relevant information more readily!  
       background: /images/hero-banner.png
       url: /contact-us/
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      subtitle: SSG Website
+      description: For information on SkillsFuture movement and how it helps Singaporeans plan and act on their upskilling efforts.
+      button: Click here to visit the SSG website 
+      url: https://www.skillsfuture.gov.sg
 ---

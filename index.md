@@ -11,7 +11,7 @@ sections:
         refreshed and launched our respective websites to provide better user
         experience, and to allow you to find relevant information more readily!
       background: /images/hero-banner.png
-      url: /contact-us/
+      url: ""
   - infobar:
       title: SSG Website
       description: For information on SkillsFuture movement and how it helps

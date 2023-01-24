@@ -23,13 +23,13 @@ locations:
     title: Branch Office
 contacts:
   - content:
+      - phone: +65 6785 5785
+      - email: ""
+      - other: ""
+    title: SkillsFuture Singapore(SSG)
+  - content:
       - phone: +65 6883 5885
       - email: ""
-      - other: +65 6785 5785 (SSG) +65 6883 5885(WSG)</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
       - other: ""
-    title: Careers
+    title: Workforce Singapore(WSG)
 ---

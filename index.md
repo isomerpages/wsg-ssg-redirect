@@ -7,7 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-     background: /images/hero-banner.png
+      background: /images/hero-banner.png
+      subtitle: SkillsFuture Singapore (SSG) spective websites to provide better
+        user         experience, and to allow you to find relevant information
+        more readily!
   - infobar:
       title: SSG Website
       description: For information on SkillsFuture movement and how it helps

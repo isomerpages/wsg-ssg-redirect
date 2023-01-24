@@ -10,8 +10,7 @@ sections:
   - hero:
       title: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
         refreshed and launched our respective websites to provide better user
-        experience, and to allow you to find relevant information more readily!
-subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
+       subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
         refreshed and launched our respective websites to provide better user
         experience, and to allow you to find relevant information more readily!
       background: /images/hero-banner.png

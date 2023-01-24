@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-       subtitle: SkillsFuture 
+       subtitle: ""
       background: /images/hero-banner.png
   - infobar:
       title: SSG Website

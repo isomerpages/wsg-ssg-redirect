@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-       subtitle: ""
-      background: /images/hero-banner.png
+     background: /images/hero-banner.png
   - infobar:
       title: SSG Website
       description: For information on SkillsFuture movement and how it helps

@@ -1,6 +1,7 @@
 ---
 layout: homepage
-title: Skillsfuture Singapore and Workforce Singapore
+title: Skillsfuture Singapore and Workforce Singapore SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
+        refreshed and launched
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /

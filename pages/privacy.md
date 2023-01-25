@@ -2,34 +2,33 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-
 ### **Privacy Policy**
 
-This website is jointly operated by the SkillsFuture Singapore Agency ("SSG") and Workforce Singapore Agency ("WSG"). SSG provides services and resources pertaining to training and skills development. WSG provides services and resources pertaining to career development. The services provided shall be known as the "Services". The words "we", "us" and "our" shall refer to SSG and WSG.
+This website is jointly operated by the SkillsFuture Singapore Agency ("**SSG**") and Workforce Singapore Agency ("**WSG**"). SSG provides services and resources pertaining to training and skills development. WSG provides services and resources pertaining to career development. The services provided shall be known as the "**Services**". The words "**we**", "**us**" and "**our**" shall refer to SSG and WSG.
 
-This privacy policy (the "Policy") is between SSG, WSG and you as user of the Website and Services.
+This privacy policy (the "**Policy**") is between SSG, WSG and you as user of the Website and Services.
 
-By logging in accessing the Website and using the Services, you represent that you are at least eighteen (18) years old and you are deemed to have read, understood and accepted the terms and conditions of this Policy and the Terms of Use at https://www.ssg-wsg.gov.sg/terms-of-use.html as amended from time to time. In the event that you are below eighteen (18) years of age, you confirm that you have your parent’s or legal guardian’s consent ("Requisite Consent") to the terms of this Policy. Unless otherwise defined in this Policy, capitalised terms used in this Policy shall have the respective meaning set out in the Terms of Use.
+By logging in accessing the Website and using the Services, you represent that you are at least eighteen (18) years old and you are deemed to have read, understood and accepted the terms and conditions of this Policy and the Terms of Use at [https://www.ssg-wsg.gov.sg/terms-of-use.html](https://www.ssg-wsg.gov.sg/terms-of-use.html)as amended from time to time. In the event that you are below eighteen (18) years of age, you confirm that you have your parent’s or legal guardian’s consent ("Requisite Consent") to the terms of this Policy. Unless otherwise defined in this Policy, capitalised terms used in this Policy shall have the respective meaning set out in the Terms of Use.
 
-1. Introduction and Scope of this Policy
+**1. Introduction and Scope of this Policy**
 
 We take your privacy very seriously and are committed to protecting your privacy and providing you with means to safely use the Website and our Services. This Policy sets out how we collect, use and protect Personal Data (as defined below) which you have provided to us through the Website and Services.
 
 "Personal Data" refers to personally identifiable information about you including your name, phone number, email address and contact details, and other personal information incidental to your interaction with the Services.
 
-2. Data Collected
+**2. Data Collected**
 
-You shall be deemed to have consented to the collection and retention by SSG and WSG of any Personal Data collected ("Additional Personal Data") through your use of the Website.
+You shall be deemed to have consented to the collection and retention by SSG and WSG of any Personal Data collected ("**Additional Personal Data**") through your use of the Website.
 
 We may also collect other information directly from you ("Data") in the following ways:
 through your IP address, web browser type and version and/or operating system (automatically collected);
 through your activity on or through the Website (including your input of search terms or skills on the Website, through the feedback survey or through the usage pattern on the Website) and site you exit to (automatically collected); and
 through any other data and information you provide us with by whatever means of communication.
-All Personal Data, Additional Personal Data and Data collected from you shall be done in accordance with this Policy (collectively referred to as "Collected Data").
+All Personal Data, Additional Personal Data and Data collected from you shall be done in accordance with this Policy (collectively referred to as "**Collected Data**").
 
 In accessing the Website and using the Services, you have consented for us to collect such Collected Data, in order for us to provide the Services to you effectively.
 
-3. Retention, Use and Storage of Collected Data by SSG and WSG
+**3. Retention, Use and Storage of Collected Data by SSG and WSG**
 
 We require the Collected Data to provide you with the best possible service and experience when using our Services and the Website. The Collected Data may be used by us for the following reasons:
 to operate the Services and provide the Services to you;
@@ -38,7 +37,7 @@ to improve the content and quality of our Services; and
 for our internal account handling, business and administrative purposes.
 We store the Collected Data in a combination of secure computer storage facilities and other records. To safeguard the Collected Data, all electronic storage and transmission of personally identifiable information are secured with appropriate security technologies. We will also take reasonable steps to securely destroy or permanently de-identify your personally identifiable information when we no longer need it.
 
-4. Sharing of Collected Data
+**4. Sharing of Collected Data**
 
 We may share the Collected Data from you with other Government agencies and statutory boards in order to serve you in a most effective way, unless such sharing is prohibited by legislation.
 
@@ -53,13 +52,13 @@ For your convenience, we may also display to you data you had previously supplie
 
 Where your use of the Website is concerned, you acknowledge and accept that certain functions, when activated or used by you, will operate to send or display information about yourself, including but not limited to, your Personal Data and/or Additional Personal Data to certain third parties, and you agree to the sharing of such information with these third parties. You acknowledge and agree that we shall not be held responsible or accountable for any loss, injury or damage sustained by you for sharing the aforesaid information arising out of your activation or use of such features on the Website.
 
-5. Anonymous Statistics
+**5. Anonymous Statistics**
 
-We may anonymise your non-personally identifiable Data, Additional Personal Data and/or Personal Data for the purposes of internal statistics ("Statistical Reports") to help us improve our Services. All information disclosed in the Statistical Reports shall only include non-personally identifiable data or anonymised data. We may in turn pass these Reports onto third parties.
+We may anonymise your non-personally identifiable Data, Additional Personal Data and/or Personal Data for the purposes of internal statistics ("**Statistical Reports**") to help us improve our Services. All information disclosed in the Statistical Reports shall only include non-personally identifiable data or anonymised data. We may in turn pass these Reports onto third parties.
 
-6. Marketing Communications
+**6. Marketing Communications**
 
-If you should consent, from time to time you may receive from us a variety of communications, including but not limited to newsletters, emails and text messages (the "Marketing Communications"), that will include service updates, product advertising and offers related to our Services which we believe you may be interested in.
+If you should consent, from time to time you may receive from us a variety of communications, including but not limited to newsletters, emails and text messages (the "**Marketing Communications**"), that will include service updates, product advertising and offers related to our Services which we believe you may be interested in.
 
 At any time, you may change your Marketing Communications preferences, either by:
 electing to opt out from the Marketing Communications sent to you by following the ‘unsubscribe’ link which can be found at the bottom of the emails; or
@@ -68,7 +67,7 @@ Aside from Marketing Communications, please note that from time to time, you may
 
 If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
 
-7. Use of Cookies
+**7. Use of Cookies**
 
 The Website may place and access certain cookies on your computer and/or any other electronic device used to access the Website. We use cookies to improve your experience using the Website and to improve the efficacy of our Services. We have carefully chosen these cookies and had taken steps to ensure that your privacy is protected and respected at all times.
 
@@ -76,33 +75,33 @@ Users of the Website are advised that if they wish to deny the use and saving of
 
 You can choose to delete the cookies at any time. However, you may lose any information that enables you to access the Website more quickly and efficiently including but not limited to personalisation settings.
 
-8. External Websites
+**8. External Websites**
 
 The Website contains links to external websites, including websites hosted by other Government entities and statutory boards. We make no representations as to the quality, suitability, functionality or legality of the material on external websites that are linked to, or to any goods and services available from, such websites. The material is only provided for your interest and convenience. We do not monitor or investigate such external websites and we accept no responsibility or liability for any loss arising from the content or accuracy of the material and any opinion expressed in the material should not be taken as our endorsement, recommendation or opinion. This Policy does not extend to your use of such external websites. You are advised to read the privacy policy or statement of such external websites prior to using them.
 
-9. Changes to this Policy
+**9. Changes to this Policy**
 
 We may revise this Policy from time to time and at our sole discretion. Although most changes are likely to be minor, we encourage visitors to frequently check this page for any changes to the Policy. Your continued use of this Website and the Services after any changes are made shall imply that you are aware of the changes in this Policy and shall constitute your deemed acceptance of such changes.
 
-10. Minors
+**10. Minors**
 
 Our Services are available only to, and may only be used by, individuals who are eighteen (18) years old and older who can form legally binding contracts under applicable law, or in the event that you are below eighteen (18) years of age, you confirm that you have the Requisite Consent to the terms of this Policy. If you are below eighteen (18) years of age and found to be using the Services, without the Requisite Consent, and Personal Data and/or Additional Personal Data has been transmitted to us, we shall take the necessary steps to remove the Personal Data and/or Additional Personal Data collected. SSG and WSG may suspend your access to the Website and its Services.
 
-11. Governing Law
+**11. Governing Law**
 
 This Policy shall be governed by and construed according to the laws of Singapore and subject to the exclusive jurisdiction of the Singapore Courts. In the event any dispute arising out of or in connection with this Policy including any question regarding its existence, validity or termination, SSG, WSG and you shall at first instance take reasonable efforts to settle and resolve such disputes in good faith and in an amicable manner by negotiation.
 
-12. Further Information
+**12. Further Information**
 
 For more information about the Policy, or to advise us if you think your personal information is inaccurate, incomplete or out of date or to enquire generally about privacy matters, please contact:
 
-SkillsFuture Singapore Agency
+**SkillsFuture Singapore Agency**
 1 Paya Lebar Link
 #08-08 PLQ 2 Paya Lebar Quarter
 Singapore 408533
 Tel: 6785 5785
 
-Workforce Singapore Agency
+**Workforce Singapore Agency**
 1 Paya Lebar Link
 #08-08 PLQ 2 Paya Lebar Quarter
 Singapore 408533

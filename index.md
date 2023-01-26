@@ -24,4 +24,21 @@ sections:
         competitive.
       button: Click here to visit the WSG website now.
       url: https://www.wsg.gov.sg
+  - infopic:
+      title: SSG Website
+      description: For information on SkillsFuture movement and how it helps
+        Singaporeans plan and act on their upskilling efforts.
+      button: CLICK HERE TO VISIT THE SSG WEBSITE
+      url: https://www.skillsfuture.gov.sg/
+      image: /images/ssg-header.png
+      alt: Image alt text
+  - infopic:
+      title: WSG Website
+      description: For information on programmes and services to help Singaporeans
+        take on quality jobs and for enterprises to transform and remain
+        competitive.
+      button: CLICK HERE TO VISIT THE WSG WEBSITE NOW.
+      url: https://www.wsg.gov.sg/
+      image: /images/wsg-header.png
+      alt: Image alt text
 ---

@@ -15,7 +15,7 @@ sections:
       title: SSG Website
       description: For information on SkillsFuture movement and how it helps
         Singaporeans plan and act on their upskilling efforts.
-      button: CLICK HERE TO VISIT THE SSG WEBSITE
+      button: READ MORE
       url: https://www.skillsfuture.gov.sg/
       image: /images/ssg-header.png
       alt: Image alt text

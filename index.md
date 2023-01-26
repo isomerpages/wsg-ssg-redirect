@@ -24,7 +24,7 @@ sections:
       description: For information on programmes and services to help Singaporeans
         take on quality jobs and for enterprises to transform and remain
         competitive.
-      button: CLICK HERE TO VISIT THE WSG WEBSITE NOW.
+      button: READ MORE
       url: https://www.wsg.gov.sg/
       image: /images/wsg-header.png
       alt: Image alt text

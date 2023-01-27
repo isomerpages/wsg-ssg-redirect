@@ -21,13 +21,4 @@ sections:
           description: "For information on programmes and services to help Singaporeans
         take on quality jobs and for enterprises to transform and remain"
           url: https://www.wsg.gov.sg/
-  - infopic:
-      title: WSG Website
-      description: For information on programmes and services to help Singaporeans
-        take on quality jobs and for enterprises to transform and remain
-        competitive.
-      button: READ MORE
-      url: https://www.wsg.gov.sg/
-      image: /images/wsg-header.png
-      alt: Image alt text
 ---

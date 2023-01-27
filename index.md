@@ -17,6 +17,9 @@ sections:
           description: For information on SkillsFuture movement and how it helps
             Singaporeans plan and act on their upskilling efforts.
           url: https://www.skillsfuture.gov.sg/
+        - title: WSG Website
+          description: "For information on programmes "
+          url: https://www.wsg.gov.sg/
   - infopic:
       title: SSG Website
       description: For information on SkillsFuture movement and how it helps

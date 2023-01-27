@@ -19,6 +19,6 @@ sections:
           url: https://www.skillsfuture.gov.sg/
         - title: WSG Website
           description: "For information on programmes and services to help Singaporeans
-        take on quality jobs and for enterprises to transform and remain"
+        take on quality jobs and for enterprises to transform and remain competitive"
           url: https://www.wsg.gov.sg/
 ---

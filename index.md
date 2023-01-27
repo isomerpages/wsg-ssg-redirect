@@ -22,14 +22,6 @@ sections:
         take on quality jobs and for enterprises to transform and remain"
           url: https://www.wsg.gov.sg/
   - infopic:
-      title: SSG Website
-      description: For information on SkillsFuture movement and how it helps
-        Singaporeans plan and act on their upskilling efforts.
-      button: READ MORE
-      url: https://www.skillsfuture.gov.sg/
-      image: /images/ssg-header.png
-      alt: Image alt text
-  - infopic:
       title: WSG Website
       description: For information on programmes and services to help Singaporeans
         take on quality jobs and for enterprises to transform and remain

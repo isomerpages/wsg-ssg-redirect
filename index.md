@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: SSG and WSG
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /

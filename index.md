@@ -22,5 +22,4 @@ sections:
           url: https://www.wsg.gov.sg/
   - resources:
       title: Relocation
-      button: https://www.wsg.gov.sg
 ---

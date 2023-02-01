@@ -18,7 +18,6 @@ sections:
             Singaporeans plan and act on their upskilling efforts.
           url: https://www.skillsfuture.gov.sg/
         - title: WSG Website
-          description: "For information on programmes and services to help Singaporeans
-        take on quality jobs"
+          description: "For information on programmes and services to take on quality jobs"
           url: https://www.wsg.gov.sg/
 ---

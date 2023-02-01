@@ -13,11 +13,11 @@ sections:
         experience, and to allow you to find relevant information more readily!
       title: Visit Our New Website
       key_highlights:
-        - title: SSG Website
+        - title: SKILLSFUTURE SINGAPORE
           description: For information on SkillsFuture movement and how it helps
             Singaporeans plan and act on their upskilling efforts.
           url: https://www.skillsfuture.gov.sg/
-        - title: WSG Website
+        - title: WORKFORCE SINGAPORE
           description: "For information on programmes and services to help Singaporeans
         take on quality jobs and for enterprises to transform and remain competitive"
           url: https://www.wsg.gov.sg/

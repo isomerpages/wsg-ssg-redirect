@@ -11,7 +11,7 @@ sections:
       subtitle: SkillsFuture Singapore and Workforce Singapore have
         refreshed and launched our respective websites to provide better user
         experience, and to allow you to find relevant information more readily.
-      title: Visit Our New Website
+      title: We Have Moved
       key_highlights:
         - title: SKILLSFUTURE SINGAPORE
           description: For information on SkillsFuture movement and how it helps

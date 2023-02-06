@@ -19,10 +19,10 @@ contacts:
       - phone: +65 6785 5785
       - email: ""
       - other: ""
-    title: SkillsFuture Singapore(SSG)
+    title: SkillsFuture Singapore (SSG)
   - content:
       - phone: +65 6883 5885
       - email: ""
       - other: ""
-    title: Workforce Singapore(WSG)
+    title: Workforce Singapore (WSG)
 ---

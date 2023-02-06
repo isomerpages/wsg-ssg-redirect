@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/ssg_web_final_programmes-listing_1_24sep.jpg
-      subtitle: SkillsFuture Singapore (SSG) and Workforce Singapore (WSG) have
+      subtitle: SkillsFuture Singapore and Workforce Singapore have
         refreshed and launched our respective websites to provide better user
         experience, and to allow you to find relevant information more readily.
       title: Visit Our New Website

@@ -18,7 +18,8 @@ sections:
             Singaporeans plan and act on their upskilling efforts.
           url: https://www.skillsfuture.gov.sg/
         - title: WORKFORCE SINGAPORE
-          description: "For information on programmes "
+          description: "For information on programmes and services to help Singaporeans
+        take on quality jobs and for enterprises to transform and remain competitive."
           url: https://www.wsg.gov.sg/
 ---
 

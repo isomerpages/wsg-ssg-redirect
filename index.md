@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SkillsFuture and Workforce Singapore Agency
+title: SkillsFuture Singapore Agency and Workforce Singapore Agency
 description: An Isomer site of the Singapore Government
 image: /images/ssg-wsg_logo.png
 permalink: /
@@ -20,3 +20,4 @@ sections:
           description: "For information on programmes "
           url: https://www.wsg.gov.sg/
 ---
+

@@ -3,8 +3,4 @@ title: About
 permalink: /about/
 description: ""
 ---
-
-
-
-
-# We have moved. Please click  the [Link](http://www.wsg.gov.sg) to go to the new website.
+# This website will no longer be available with effect from 1 April 2023. For more information on Workforce Singapore, please click  [here](http://www.wsg.gov.sg) to vist the new WSG Corporate Website.

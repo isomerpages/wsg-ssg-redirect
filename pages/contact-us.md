@@ -2,31 +2,27 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SSG & WSG
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "1 Paya Lebar Link "
+      - "#08-08 Paya Lebar Quarter 2"
+      - Singapore 408533
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 8.30am - 5.30pm
+        description: Sat, Sun & Public Holidays Closed
+    maps_link: ""
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6785 5785
+      - email: ""
+      - other: ""
+    title: SkillsFuture Singapore (SSG)
+  - content:
+      - phone: +65 6883 5885
+      - email: ""
+      - other: ""
+    title: Workforce Singapore (WSG)
 ---

@@ -6,7 +6,7 @@ description: ""
 We Have Moved
 =================
 
-   This website will no longer be available with effort from 1 April 2023. 
+   This website will no longer be available with effect from 1 April 2023. 
 	 
 	 
 

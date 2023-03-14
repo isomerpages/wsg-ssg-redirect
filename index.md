@@ -11,7 +11,6 @@ sections:
       subtitle: SkillsFuture Singapore and Workforce Singapore have
         refreshed and launched our respective websites to provide better user
         experience, and to allow you to find relevant information more readily. 
-        Please note that the information provided on this page will be effective from 1 April 2023 until 31 March 2024. We kindly advise you to update your bookmarks accordingly. Thank you
       title: We Have Moved
       key_highlights:
         - title: SKILLSFUTURE SINGAPORE

@@ -23,7 +23,6 @@ sections:
   - infobar:
       description: Please note that the information provided on this page will be
         effective from 1 April 2023.
-      subtitle: test
-      title: Please note that the information provided on this page will be
+       title: Please note that the information provided on this page will be
         effective from 1 April 2023.
 ---

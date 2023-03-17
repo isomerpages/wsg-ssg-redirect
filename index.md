@@ -23,5 +23,4 @@ sections:
           url: https://www.wsg.gov.sg/
   - infobar:
       description: Please note that the information provided on this page will be effective from 1 April 2023.
-      button: Button Text
 ---

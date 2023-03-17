@@ -8,9 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/ssg_web_final_programmes-listing_1_24sep.jpg
-      subtitle: SkillsFuture Singapore and Workforce Singapore have
-        refreshed and launched our respective websites to provide better user
-        experience, and to allow you to find relevant information more readily. 
+      subtitle: SkillsFuture Singapore and Workforce  
       title: We Have Moved
       key_highlights:
         - title: SKILLSFUTURE SINGAPORE

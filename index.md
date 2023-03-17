@@ -12,13 +12,9 @@ sections:
       title: We Have Moved
       key_highlights:
         - title: SKILLSFUTURE SINGAPORE
-          description: For information on SkillsFuture movement and how it helps
-            Singaporeans plan and act on their upskilling efforts.
-          url: https://www.skillsfuture.gov.sg/
+          description: For information on 
         - title: WORKFORCE SINGAPORE
-          description: "For information on programmes and services to help Singaporeans
-        take on quality jobs and for enterprises to transform and remain competitive."
-          url: https://www.wsg.gov.sg/
+          description: "For information
   - infobar:
       description: Please note that the information provided on this page will be effective from 1 April 2023.
 ---

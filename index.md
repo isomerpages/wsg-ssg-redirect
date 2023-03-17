@@ -22,6 +22,6 @@ sections:
         take on quality jobs and for enterprises to transform and remain competitive."
           url: https://www.wsg.gov.sg/
   - infobar:
-      description: Please note that the information provided on this page will be effective from 1 April 2023 until 31 March 2024. We kindly advise you to update your bookmarks accordingly. Thank you
+      description: Please note that the information provided on this page will be effective from 1 April 2023.
       button: Button Text
 ---

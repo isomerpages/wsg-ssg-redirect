@@ -8,19 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/ssg_web_final_programmes-listing_1_24sep.jpg
-      subtitle: SkillsFuture Singapore and Workforce Singapore have
-        refreshed and launched our respective websites to provide better user
-        experience, and to allow you to find relevant information more readily. 
+      subtitle: We will be working on our website to enhance the user experience. As a result, it will be unavailable from 31 Mar 23, 10pm to 1 Apr 23, 10am. We apologies for any inconvenience caused. 
       title: We Have Moved
-      key_highlights:
-        - title: SKILLSFUTURE SINGAPORE
-          description: For information on SkillsFuture movement and how it helps
-            Singaporeans plan and act on their upskilling efforts.
-          url: https://www.skillsfuture.gov.sg/
-        - title: WORKFORCE SINGAPORE
-          description: "For information on programmes and services to help Singaporeans
-        take on quality jobs and for enterprises to transform and remain competitive."
-          url: https://www.wsg.gov.sg/
   - infobar:
        title: Please note that the information provided on this page will be
         effective from 1 April 2023.

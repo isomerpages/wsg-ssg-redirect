@@ -9,11 +9,8 @@ sections:
   - hero:
       background: /images/ssg_web_final_programmes-listing_1_24sep.jpg
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
         - title: "testing "
-          description: Ktesting 2
-          url: ""
+          description: We will be working on our website to enhance the user experience. As a result, it will be unavailable from 31 Mar 23, 10pm to 1 Apr 23, 10am. We apologies for any inconvenience caused.
+         
       title: UNDER CONSTRUCTION
 ---

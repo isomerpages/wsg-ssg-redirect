@@ -1,6 +1,6 @@
 ---
-title: Boards members
-permalink: /boards-members/
+title: programmes and initiatives
+permalink: /programmes-and-initiatives/
 description: ""
 ---
 We Have Moved

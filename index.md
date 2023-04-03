@@ -21,7 +21,5 @@ sections:
           description: "For information on programmes and services to help Singaporeans
         take on quality jobs and for enterprises to transform and remain competitive."
           url: https://www.wsg.gov.sg/
-  - infobar:
-       title: Please note that the information provided on this page will be
-        effective from 1 April 2023.
+  
 ---
